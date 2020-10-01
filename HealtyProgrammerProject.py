@@ -1,5 +1,5 @@
 #Excercise 7
-#Healty Programmer
+#Healthy Programmer - a programme that will keep you fit 
 
 #9am - 5pm
 #Water - water.mp3 (3.5 litres) - input - Drank - log time in text - Every 40 Minute
